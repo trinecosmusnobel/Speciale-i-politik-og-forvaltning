@@ -1,0 +1,12 @@
+options(encoding = "UTF-8")
+
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+library(janitor)
+library(readxl)
+library(tidyr)
+library(stringr)
+library(vtable)
+library(ggeffects)
+library(ggridges)
